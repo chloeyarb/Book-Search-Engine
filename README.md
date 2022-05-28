@@ -58,7 +58,7 @@ Server
 
 ## GitHub Repository
 
-[Book Search Engine](https://github.com/chloeyarb/Book-Search-Engine/tree/develop)
+[Book Search Engine](https://github.com/chloeyarb/Book-Search-Engine/tree/main)
 
 ## Contributor
 
